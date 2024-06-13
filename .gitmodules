@@ -1,3 +1,6 @@
 [submodule "Building"]
 	path = Building
 	url = https://github.com/CharanKumarH/Building.git
+[submodule "MyCity"]
+	path = MyCity
+	url = https://github.com/CharanKumarH/MyCity.git
